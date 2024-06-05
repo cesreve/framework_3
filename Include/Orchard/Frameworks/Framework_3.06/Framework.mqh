@@ -49,5 +49,6 @@
 #include "Expert/LegBase.mqh"
 #include "Indicators/Indicators.mqh"
 #include "Trade/Trade.mqh"
+#include "Extensions/TimeFilter.mqh"
 
 #endif
